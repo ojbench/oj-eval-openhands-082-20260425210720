@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <string>
-#include "LinkedHashMap.hpp"
+#include "src.hpp"
 
 int main() {
     int n, m;
