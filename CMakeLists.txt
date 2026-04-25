@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O2 -Wall -Wextra")
 
 # Add the executable
-add_executable(code test.cpp)
+add_executable(code main.cpp)
